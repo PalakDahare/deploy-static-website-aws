@@ -25,7 +25,7 @@ Steps performed:
 
 ## Screenshots Included
 The `Project Screenshots` folder contains:
-1. **Screenshot Bucket.png** – Newly created bucket visible in AWS Console.
+1. **Project Screenshots/Screenshot Bucket.png** – Newly created bucket visible in AWS Console.
 2. **Screenshot Upload Files.png** – Website files uploaded into the S3 bucket.
 3. **Screenshot Static Website Hosting.png** – Static website hosting configuration page.
 4. **Screenshot Bucket policy** – Bucket policy applied to allow public read.
@@ -34,7 +34,11 @@ The `Project Screenshots` folder contains:
 
 ---
 
+
 ## Notes
 - Website customized with updated text and background image to make it unique.
 - Default root object set as `index.html` in CloudFront to avoid “Access Denied” errors.
 - CloudFront cache invalidated (`/*`) to ensure updated content is visible.
+
+
+
