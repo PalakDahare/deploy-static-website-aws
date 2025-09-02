@@ -25,12 +25,12 @@ Steps performed:
 
 ## Screenshots Included
 The `Project Screenshots` folder contains:
-1. **Project Screenshots/Screenshot Bucket.png** – Newly created bucket visible in AWS Console.
-2. **Screenshot Upload Files.png** – Website files uploaded into the S3 bucket.
-3. **Screenshot Static Website Hosting.png** – Static website hosting configuration page.
-4. **Screenshot Bucket policy** – Bucket policy applied to allow public read.
-5. **CloudFront Distributions Screenshot.png** – CloudFront distribution successfully deployed.
-6. **Blog Screenshot.png** – Final website loaded in a browser via CloudFront URL.
+1. Screenshot Bucket.png – Newly created bucket visible in AWS Console.
+2. Screenshot Upload Files.png– Website files uploaded into the S3 bucket.
+3. Screenshot Static Website Hosting.png – Static website hosting configuration page.
+4. Screenshot Bucket policy.png – Bucket policy applied to allow public read.
+5. CloudFront Distributions Screenshot.png – CloudFront distribution successfully deployed.
+6. Blog Screenshot.png – Final website loaded in a browser via CloudFront URL.
 
 ---
 
